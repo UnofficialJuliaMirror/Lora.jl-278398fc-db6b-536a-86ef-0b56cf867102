@@ -9,6 +9,8 @@ Lora.jl
 
 [![Throughput Graph](https://graphs.waffle.io/JuliaStats/Lora.jl/throughput.svg)](https://waffle.io/JuliaStats/Lora.jl/metrics)
 
+*Lora* has been renamed to [*Klara*](https://github.com/JuliaStats/Klara.jl).
+
 The Julia *Lora* package provides a generic engine for Markov Chain Monte Carlo (MCMC) inference.
 
 *Lora* has undergone a major upgrade. Some of its recent changes include:
